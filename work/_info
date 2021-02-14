@@ -1,0 +1,506 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.1
+Eadder
+Z0 w1599941521
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx5 maxii 15 maxii_atom_pack 0 22 0AkPE6`BcAMTVDnhGOIT:1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx5 maxii 16 maxii_components 0 22 eRFH09VjTO<GE<HQHm1Nk1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dD:/digitalDesign/lab1
+Z8 8D:/digitalDesign/lab1/simulation/modelsim/counter.vho
+Z9 FD:/digitalDesign/lab1/simulation/modelsim/counter.vho
+l0
+L34
+V[DQ]agmIY]3m^IX=kM2c11
+!s100 DVS0n<d^7hcFGMRU51D9M1
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1599941698
+!i10b 1
+Z12 !s108 1599941698.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab1/simulation/modelsim/counter.vho|
+Z14 !s107 D:/digitalDesign/lab1/simulation/modelsim/counter.vho|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 5 adder 0 22 [DQ]agmIY]3m^IX=kM2c11
+l78
+L47
+VY7BQ@e`Aih3hkeUBU?z<A0
+!s100 Td@LBBJWM0XgaVhbV1Q]:1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astr
+Z18 DEx4 work 2 fa 0 22 UJMYXNLXD4]lXh1Uk;ZCV2
+R5
+R6
+DEx4 work 5 adder 0 22 ^R`LXGNi97_N>059:^[]k1
+l22
+L18
+V;In33BYkgjeN5FO6]jl[83
+!s100 aak01Ui_;CA3KO9cS1FVY3
+R10
+32
+!s110 1599940544
+!i10b 1
+!s108 1599940544.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab1/adder.vhd|
+!s107 D:/digitalDesign/lab1/adder.vhd|
+!i113 1
+R15
+R16
+FD:/digitalDesign/lab1/adder.vhd
+w1599938685
+8D:/digitalDesign/lab1/adder.vhd
+Eadder_tb
+Z19 w1567212899
+Z20 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R5
+R6
+R7
+Z21 8D:/digitalDesign/lab1/adder_tb.vhd
+Z22 FD:/digitalDesign/lab1/adder_tb.vhd
+l0
+L8
+VlNzV;BRTo_:<@RIU:K?>L1
+!s100 PDNPhQNIQ4JdmiNVWd5YI3
+R10
+32
+Z23 !s110 1600382258
+!i10b 1
+Z24 !s108 1600382258.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab1/adder_tb.vhd|
+Z26 !s107 D:/digitalDesign/lab1/adder_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R2
+R3
+R4
+R17
+R20
+R5
+R6
+DEx4 work 8 adder_tb 0 22 lNzV;BRTo_:<@RIU:K?>L1
+l16
+L11
+V3<5OI;F8l[IF3eJQXNbAL0
+!s100 UXiSGCG^NcJKaJ;M6f6UX1
+R10
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R15
+R16
+Ealu_ns
+Z27 w1600740234
+R20
+R5
+R6
+R7
+Z28 8D:/digitalDesign/lab2/alu_ns.vhd
+Z29 FD:/digitalDesign/lab2/alu_ns.vhd
+l0
+L5
+Vb3Jc9i4;>jVY5ia[QQQzM2
+!s100 Ra8@9NT`7H<03Ka<aWjG_1
+R10
+32
+Z30 !s110 1600740270
+!i10b 1
+Z31 !s108 1600740270.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab2/alu_ns.vhd|
+Z33 !s107 D:/digitalDesign/lab2/alu_ns.vhd|
+!i113 1
+R15
+R16
+Agood3
+R20
+R5
+R6
+Z34 DEx4 work 6 alu_ns 0 22 b3Jc9i4;>jVY5ia[QQQzM2
+l34
+L14
+V0?0Im1_^jnI`OJk2=Z;5_1
+!s100 ;AlLkdB0[CPQXFT6;Q8:Z3
+R10
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R15
+R16
+Aarc1
+R20
+R5
+R6
+DEx4 work 6 alu_ns 0 22 oe87lAYS2[]IVmmSGXBWo2
+l29
+L14
+Vi96Z[OYD<kGzRz9dj:@BL3
+!s100 ]R<l^AK2=g<i?WA:nO_A?0
+R10
+32
+!s110 1600739560
+!i10b 1
+!s108 1600739560.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/josep/Desktop/DDHelp/Prelab2/DONT/P2/alu_ns.vhd|
+!s107 C:/Users/josep/Desktop/DDHelp/Prelab2/DONT/P2/alu_ns.vhd|
+!i113 1
+R15
+R16
+FC:/Users/josep/Desktop/DDHelp/Prelab2/DONT/P2/alu_ns.vhd
+w1599066822
+8C:/Users/josep/Desktop/DDHelp/Prelab2/DONT/P2/alu_ns.vhd
+Astructure
+R1
+Z35 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 <L;kP5e_CYmnMCFQ1Hi7l2
+R3
+R5
+R6
+Z36 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 Zhd>PXSadeo7OO6QmOiHT3
+DEx4 work 6 alu_ns 0 22 0fG?g`9DZ7?cCJ@gJReQz3
+l590
+L154
+V7^Z^DQ0Z=4?^gL>7Ed:DP2
+!s100 1QX7b0K`@ocXAz@=klIj60
+R10
+32
+Z37 !s110 1600738909
+!i10b 1
+Z38 !s108 1600738908.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab2/simulation/modelsim/lab2.vho|
+Z40 !s107 D:/digitalDesign/lab2/simulation/modelsim/lab2.vho|
+!i113 1
+R15
+R16
+Z41 FD:/digitalDesign/lab2/simulation/modelsim/lab2.vho
+Z42 w1600738902
+Z43 8D:/digitalDesign/lab2/simulation/modelsim/lab2.vho
+Ealu_ns_tb
+Z44 w1600739455
+Z45 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z46 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R5
+R6
+R7
+Z47 8D:/digitalDesign/lab2/alu_ns_tb.vhd
+Z48 FD:/digitalDesign/lab2/alu_ns_tb.vhd
+l0
+L6
+VOGZhL4?il>cg3OT0<;aDh1
+!s100 YWcT;Q?>gYMKFVRRM=8dc0
+R10
+32
+R30
+!i10b 1
+R31
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab2/alu_ns_tb.vhd|
+Z50 !s107 D:/digitalDesign/lab2/alu_ns_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R45
+R46
+R5
+R6
+DEx4 work 9 alu_ns_tb 0 22 OGZhL4?il>cg3OT0<;aDh1
+l33
+L9
+VPmQBYAAjVa^>U0I4Gboln2
+!s100 zg^?nNcLgn5;l2:I4k:8a2
+R10
+32
+R30
+!i10b 1
+R31
+R49
+R50
+!i113 1
+R15
+R16
+Ecounter
+Z51 w1600380250
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+l0
+L34
+VAd3MB;jlc]10:`b=T]clM0
+!s100 Z9]`Ob]]_hfV_^Lc6]<fB2
+R10
+32
+Z52 !s110 1600380267
+!i10b 1
+Z53 !s108 1600380267.000000
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z54 DEx4 work 7 counter 0 22 Ad3MB;jlc]10:`b=T]clM0
+l140
+L63
+V[`18C[ci1ZWLnmoK:5`<41
+!s100 jUN?2Oglmd7NcfdAoGSTO2
+R10
+32
+R52
+!i10b 1
+R53
+R13
+R14
+!i113 1
+R15
+R16
+Ecounter_tb
+Z55 w1567169704
+R20
+R5
+R6
+R7
+Z56 8D:/digitalDesign/lab1/counter_tb.vhd
+Z57 FD:/digitalDesign/lab1/counter_tb.vhd
+l0
+L8
+VS>Ya]0C>iIkha9`J>B87W3
+!s100 S1[Bdaelf6PZgfC@f;JDz2
+R10
+32
+R52
+!i10b 1
+R53
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab1/counter_tb.vhd|
+Z59 !s107 D:/digitalDesign/lab1/counter_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R2
+R3
+R4
+R54
+R20
+R5
+R6
+DEx4 work 10 counter_tb 0 22 S>Ya]0C>iIkha9`J>B87W3
+l41
+L11
+VX@22A`2H047S_X2Q`[HZK0
+!s100 7AWDWjZMhg8JN4l[cj4C?3
+R10
+32
+R52
+!i10b 1
+R53
+R58
+R59
+!i113 1
+R15
+R16
+Efa
+Z60 w1600382208
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+l0
+L34
+VM[T012BW4ao[<@zITWR302
+!s100 i6YIg1YPjA>K`gzbDCWJ23
+R10
+32
+R23
+!i10b 1
+R24
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 2 fa 0 22 M[T012BW4ao[<@zITWR302
+l68
+L47
+Vek7^P`2PgEPQD^VNe5=^R0
+!s100 Ycb7KomJjnV0g2n]km^hJ0
+R10
+32
+R23
+!i10b 1
+R24
+R13
+R14
+!i113 1
+R15
+R16
+Abhv
+R5
+R6
+R18
+l18
+L17
+VXYC2z1N91KM8aUKWbWWni3
+!s100 8TGYYC6fELHF9EhHBV0m;0
+R10
+32
+Z61 !s110 1599942182
+!i10b 1
+Z62 !s108 1599942182.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab1/fa.vhd|
+!s107 D:/digitalDesign/lab1/fa.vhd|
+!i113 1
+R15
+R16
+FD:/digitalDesign/lab1/fa.vhd
+w1599933361
+8D:/digitalDesign/lab1/fa.vhd
+Efa_tb
+Z63 w1567169783
+R20
+R5
+R6
+R7
+Z64 8D:/digitalDesign/lab1/fa_tb.vhd
+Z65 FD:/digitalDesign/lab1/fa_tb.vhd
+l0
+L8
+VI_3P48INb@BMb3ij>;@EP1
+!s100 3_abXP8hnMOG:JhJ230mZ2
+R10
+32
+R61
+!i10b 1
+R62
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/digitalDesign/lab1/fa_tb.vhd|
+Z67 !s107 D:/digitalDesign/lab1/fa_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R18
+R20
+R5
+R6
+DEx4 work 5 fa_tb 0 22 I_3P48INb@BMb3ij>;@EP1
+l15
+L11
+V;71bgaGFnXX6ZEYW?:eG81
+!s100 FO=:8hk>d::o5CB`_T0@f0
+R10
+32
+R61
+!i10b 1
+R62
+R66
+R67
+!i113 1
+R15
+R16
+Ehard_block
+R42
+R1
+R35
+R3
+R5
+R6
+R36
+R7
+R43
+R41
+l0
+L34
+VVJC_SCQnbl6Z72Fo6mUck3
+!s100 ROH=D<N4CT6aCZ<37A[_?0
+R10
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R15
+R16
+Astructure
+R1
+R35
+R3
+R5
+R6
+R36
+DEx4 work 10 hard_block 0 22 VJC_SCQnbl6Z72Fo6mUck3
+l75
+L53
+VZ3YASngXe9m4oHOPQ8A?`3
+!s100 zW6ML5NVY?Ai`]`n2XhME3
+R10
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R15
+R16

@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, D:/digitalDesign/lab1/adder.vhd
+source_file = 1, D:/digitalDesign/lab1/fa.vhd
+source_file = 1, c:/intelfpga_lite/17.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/intelfpga_lite/17.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/intelfpga_lite/17.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/intelfpga_lite/17.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, D:/digitalDesign/lab1/db/counter.cbx.xml
+design_name = fa
+instance = comp, \carry_in~I\, carry_in, fa, 1
+instance = comp, \input1~I\, input1, fa, 1
+instance = comp, \input2~I\, input2, fa, 1
+instance = comp, \sum~0\, sum~0, fa, 1
+instance = comp, \carry_out~0\, carry_out~0, fa, 1
+instance = comp, \sum~I\, sum, fa, 1
+instance = comp, \carry_out~I\, carry_out, fa, 1
